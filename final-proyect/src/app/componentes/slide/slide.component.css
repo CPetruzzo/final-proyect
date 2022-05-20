@@ -7,6 +7,10 @@
   user-select: none;
 }
 
+#prueba{
+  background-image: url("C:/Users/FACUNDO/OneDrive/Documentos/GitHub/final-proyect/final-proyect/src/assets/data/svg1.png");
+}
+
 @media (min-width: 768px) {
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
